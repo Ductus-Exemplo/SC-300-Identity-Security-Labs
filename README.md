@@ -15,6 +15,7 @@ A hands-on learning portfolio documenting my progress through Microsoft's SC-300
 |---|---|---|
 | 01 | [Manage User Roles](labs/lab-01-manage-user-roles.md) | Completed |
 | 02 | [Working with Tenant Properties](labs/Lab-02-Working-With-Tenant-Properties.md) | Completed |
+| 03 | [Group Based Licensing](labs/Lab-03-group-based-licensing.md) | Completed |
 
 ## Objective
 
