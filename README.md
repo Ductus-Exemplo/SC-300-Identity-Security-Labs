@@ -18,6 +18,7 @@ A hands-on learning portfolio documenting my progress through Microsoft's SC-300
 | 03 | [Group Based Licensing](labs/Lab-03-group-based-licensing.md) | Completed |
 | 04 | [External Collaboration Settings](labs/lab-04-external-collaboration.md) | Completed |
 | 05 | [Guest USer Management](labs/lab-05-guest-user-management.md) | Completed |
+| 06 | [Federated Identity Provider](labs/lab-06-federated-identity-provider.md) | Completed |
 
 ## Objective
 
